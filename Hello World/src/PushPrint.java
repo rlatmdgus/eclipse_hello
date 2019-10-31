@@ -4,5 +4,6 @@ public class PushPrint {
 		System.out.println("Print Test");
 		System.out.println("Eclipse Print Test");
 		System.out.println("GitHub Print Test");
+		System.out.println("GitHub print Pull Test");
 	}
 }
